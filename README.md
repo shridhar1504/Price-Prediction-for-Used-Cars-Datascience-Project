@@ -26,3 +26,6 @@ The following findings were made from the results of this project:
 * The Kilometers the car driven has small impact on the price
 ## Insights:
 The insights from this project can be used by car dealerships, car buyers, and other businesses that are involved in the used car market. These insights can help these businesses to make more informed decisions about the pricing of used cars. For example, car dealerships can use these insights to set more competitive prices for their used cars. Car buyers can use these insights to get a better deal on a used car. And other businesses that are involved in the used car market can use these insights to improve their operations.
+## Conclusion:
+## Conclusion :
+Achieved in developing a predictive model to predict the price of the used cars based on given data with accuracy of 92.02% (CatBoost Regressor)
